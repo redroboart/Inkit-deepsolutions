@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Services | Inkit Deep Solutions</title>
+    <style>
+        body { background: #f2f5fa; color: #2a2e4d; font-family: 'Segoe UI', Arial, sans-serif; margin: 0; }
+        header, footer { background: #2a2e4d; color: #fff; padding: 20px 0; }
+        nav a { color: #29c6b1; margin: 0 16px; text-decoration: none; font-weight: 600; }
+        h1 { color: #29c6b1; text-align: center; margin-top: 32px;}
+        .section { padding: 40px 20px; max-width: 900px; margin: auto; }
+        .card { background: #fff; padding: 28px; border-radius: 8px; margin: 16px auto; box-shadow: 0 2px 4px #29c6b170; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 30px; }
+        h2 { color: #2a2e4d; }
+    </style>
+</head>
+<body>
+    <header>
+        <nav style="text-align:center;">
+            <a href="index.html">Home</a>
+            <a href="about.html">About Us</a>
+            <a href="services.html">Services</a>
+            <a href="team.html">Team</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <h1>Our Services</h1>
+    <div class="section card">
+        <h2>End-to-End Business Campaign Strategy</h2>
+        <p>Our services are designed to help businesses excel at every stage. We analyse market data, perform SWOT, and create custom campaigns and outreach strategies.</p>
+        <div class="grid">
+            <div>
+                <h3>Research & Analysis</h3>
+                <ul>
+                    <li>Market Opinion Polls</li>
+                    <li>Customer Surveys</li>
+                    <li>Competitor Reports</li>
+                    <li>Qualitative Research</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Analytics</h3>
+                <ul>
+                    <li>Customer Profiling</li>
+                    <li>Media Analytics</li>
+                    <li>Employee Engagement Analytics</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Campaigns</h3>
+                <ul>
+                    <li>Branded Events & Outreach</li>
+                    <li>Outdoor Media</li>
+                    <li>Customer Care Center</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Digital Solutions</h3>
+                <ul>
+                    <li>Social Media Growth</li>
+                    <li>Influencer Management</li>
+                    <li>Website Development</li>
+                    <li>Digital Support</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div style="text-align:center;">
+            Transform your business with expert solutions.<br>
+            © 2025, Inkit Deep Solutions. All Rights Reserved.
+        </div>
+    </footer>
+</body>
+</html>
